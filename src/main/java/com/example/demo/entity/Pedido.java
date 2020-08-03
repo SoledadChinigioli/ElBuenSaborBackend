@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+/*package com.example.demo.entity;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -144,4 +144,4 @@ public class Pedido extends EntidadGenerica implements Serializable{
 
 	
 	
-}
+}*/
